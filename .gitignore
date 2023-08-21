@@ -120,3 +120,4 @@ dmypy.json
 /tests/unit/tmp_data/
 
 *.benchmarks
+*.svg
