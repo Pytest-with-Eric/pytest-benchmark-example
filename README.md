@@ -1,9 +1,9 @@
 # Pytest Benchmark Example
 
-<!-- This repo contains the sample code for the article - [3 Ways To Easily Test Your Python Async Functions With Pytest Asyncio](https://pytest-with-eric.com/pytest-advanced/pytest-asyncio/) -->
+This repo contains the sample code for the article - [How To Measure And Improve Code Efficiency with Pytest Benchmark (The Ultimate Guide)](https://pytest-with-eric.com/pytest-best-practices/pytest-benchmark/)
 
 # Requirements
-* Python (3.10.6)
+* Python (3.11.4)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
